@@ -1,4 +1,6 @@
-# markdown-to-MSword
+# mini-notebook
+
+This serves as a toolkit box to do some basic file processing.
 
 ## Environment
 
