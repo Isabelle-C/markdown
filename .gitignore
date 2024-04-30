@@ -1,0 +1,4 @@
+.snakemake
+
+# Cache
+*.pyc
