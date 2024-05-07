@@ -23,7 +23,11 @@ poetry shell
 `example`
 
 ```bash
-python cli/markdown_to_word.py "example.md" "output.docx"
+python cli/markdown_convert.py "files/example.md" "files/example_output.docx"
+```
+
+```bash
+python cli/markdown_convert.py "files/example2.md" "files/example2_output.pdf"
 ```
 
 ## Workflow
